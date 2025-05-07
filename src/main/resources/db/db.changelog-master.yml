@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: db/changes/users-changelog.yml
+  - include:
+      file: db/changes/subscriptions-changelog.yml
